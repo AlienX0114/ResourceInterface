@@ -23,42 +23,6 @@
 
 ---
 
-# 捐赠
-
-> **如果项目有帮助到您，可以选择捐赠一些费用用于资源接口的后续版本维护，本项目长期维护**
-
-<div align=center>
-<img src="https://p.sda1.dev/13/91c5ba7d12008d1e60e618a5ffe944de/pay_wx.png" alt="CandyMuj" width="300" height="365" />
-<img src="https://p.sda1.dev/13/ddc8185e90b24e5785f0d0d0308cacce/pay_ali.jpg" alt="CandyMuj" width="300" height="365" />
-</div>
-
----
-
-# 防失联
-
-## **建议关注公众号**
-
-1、在微信```添加朋友-公众号```中搜索 **CandyMuj** 进行添加
-
-2、扫描下方二维码直接添加
-
-<div align=center>
-<img src="https://p.sda1.dev/13/8ee512e428148ed382f1503d7c0a0a53/wx.png" alt="CandyMuj" width="300" />
-</div>
-
-
-## 加入QQ频道
-
-> 直接点击链接即可 [https://pd.qq.com/s/7syeeejxz](https://pd.qq.com/s/7syeeejxz)
->
-> 可能极少数的QQ会提示没有权限
-
-## 加入Telegram
-
-> 直接点击链接即可 [https://t.me/CandyMujSource](https://t.me/CandyMujSource)
-
----
-
 # TVBox
 
 ## 配置地址
